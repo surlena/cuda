@@ -1,7 +1,6 @@
 .first-block{
     background-color: #87509c;
-   
-    width:  1440px;
+    
 
 }
 
@@ -11,6 +10,7 @@
     margin-left: auto;
     padding: 20px 10px 0 10px;
     padding-bottom: 144px;
+    
     
 }
 
@@ -73,4 +73,5 @@
     color: #fff;
     font-size: 18px;
     text-transform: uppercase;
+    cursor: pointer;
 }
